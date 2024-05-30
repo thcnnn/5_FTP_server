@@ -1,0 +1,16 @@
+2024-05-30 14:09:02,706 - Command: okay Response: Invalid command
+2024-05-30 14:09:09,486 - Command: hhelp Response: Invalid command
+2024-05-30 14:09:31,489 - Command: pwd Response: /home/vboxuser/test_1/prakt_7
+2024-05-30 14:11:25,097 - Command: ls Response: 
+2024-05-30 15:08:47,933 - Command: ls Response: 
+2024-05-30 15:08:50,812 - Command: pwd Response: /home/vboxuser/test_1/prakt_7
+2024-05-30 15:08:56,198 - Command: mkdir user h Response: Usage: mkdir <directory>
+2024-05-30 15:09:04,500 - Command: mkdir userh Response: Directory userh created
+2024-05-30 15:12:37,222 - Command: mkdir user6dir Response: Directory user6dir created
+2024-05-30 15:12:40,637 - Command: exit Response: exit
+2024-05-30 15:26:07,307 - Command: ls Response: 
+2024-05-30 15:26:11,460 - Command: pwd Response: /home/vboxuser/test_1/prakt_7
+2024-05-30 15:26:28,142 - Command: upload user7.txt HEHEHEH Response: File user7.txt uploaded
+2024-05-30 15:26:49,730 - Command: rename user7.txt user7.csv Response: Renamed user7.txt to user7.csv
+2024-05-30 15:27:40,475 - Command: download user7.csv Response: HEHEHEH
+2024-05-30 15:27:45,602 - Command: exit Response: exit
